@@ -45,4 +45,4 @@ Output:
 
 ## Autori
 
-*Marco Biesso* e *Marco Tamisari*
+*Marco Biesso*
