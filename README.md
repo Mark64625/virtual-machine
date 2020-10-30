@@ -1,4 +1,4 @@
-# Macchina virtuale
+# Macchina virtuale MIPS-like
 
 Progetto per il test finale del Corso di Programmazione 2018-2019 (Università Ca' Foscari Venezia).
 Il programma simula il funzionamento di una macchina virtuale con un linguaggio assembly fittizio, simile nella logica al MIPS, ma più semplice.
